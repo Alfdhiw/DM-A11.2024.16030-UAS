@@ -86,14 +86,10 @@ Kesimpulan:
 
 - Clone repositori ini:
 ```
-git clone https://github.com/username/property-value-prediction.git
-```
-- Install dependensi:
-```
-pip install -r requirements.txt
+git clone https://github.com/Alfdhiw/DM-A11.2024.16030-UAS.git
 ```
 - Jalankan notebook Jupyter:
 ```
 jupyter notebook
 ```
-- Buka file Time_Series_Property_Analysis.ipynb untuk melihat langkah-langkah analisis dan prediksi.
+- Buka file UASDM_AlifFadhilWibowo_A11_2024_16030.ipynb untuk melihat langkah-langkah analisis dan prediksi.
