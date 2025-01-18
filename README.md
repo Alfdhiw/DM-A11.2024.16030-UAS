@@ -88,6 +88,10 @@ Kesimpulan:
 ```
 git clone https://github.com/Alfdhiw/DM-A11.2024.16030-UAS.git
 ```
+- Install dependensi:
+```
+pip install -r requirements.txt
+```
 - Jalankan notebook Jupyter:
 ```
 jupyter notebook
